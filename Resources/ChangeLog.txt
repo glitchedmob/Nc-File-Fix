@@ -1,0 +1,15 @@
+  ______  __    __       ___      .__   __.   _______  _______  __        ______     _______ 
+ /      ||  |  |  |     /   \     |  \ |  |  /  _____||   ____||  |      /  __  \   /  _____|
+|  ,----'|  |__|  |    /  ^  \    |   \|  | |  |  __  |  |__   |  |     |  |  |  | |  |  __  
+|  |     |   __   |   /  /_\  \   |  . `  | |  | |_ | |   __|  |  |     |  |  |  | |  | |_ | 
+|  `----.|  |  |  |  /  _____  \  |  |\   | |  |__| | |  |____ |  `----.|  `--'  | |  |__| | 
+ \______||__|  |__| /__/     \__\ |__| \__|  \______| |_______||_______| \______/   \______| 
+
+ V 1.1
+
+ + Added a changelog in the menu bar.
+ + Added version number in the about tab.
+ + Added to the help tab
+ + Fixed the bug that caused the new scribe mark to not be written if beam was more than 20,000 mm long.
+ + The program now fixes the scribe heigth as well.
+ + Now with more love.
